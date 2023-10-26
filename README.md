@@ -1,1 +1,1 @@
-# https-29783.hijackthisdomain.itmo.xyz-
+# 29783.hijackthisdomain.itmo.xyz-
